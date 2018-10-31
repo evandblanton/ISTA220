@@ -1,0 +1,24 @@
+
+
+# ISTA220
+### C# CH 1 HW
+
+#### Evan D. Blanton
+
+# Answers
+
+---
+
+
+1. an application that runs in a Command Prompt window 
+
+2.	the point at which the program starts.
+3.	Helps organize code in a group
+4.	Calls the dispose method/brings namespace in the scope so you don’t have to use the full name
+5.	Helps add attributes to a program/container of classes
+6.	Assembly can contain namespaces, namespace can contain assembly. Theres no relation.
+7.	Java, something you can see. Has its own GUI.
+8.	Start visual studios
+9.	Runs the data/compiles the code/checks the syntax of the language and converts the language from computer lang to MSIL byte code.	
+10.	Tests the code and looks for errors/2 types languages-compiled and interpreted languages. Compile langaues run through a compiler, converts code in the computer in one sweep. Interpreter runs code line by line-starting at he top and runs down
+

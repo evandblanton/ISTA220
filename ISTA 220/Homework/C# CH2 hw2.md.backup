@@ -1,0 +1,31 @@
+
+
+# ISTA220
+### C# CH 2 HW
+
+#### Evan D. Blanton
+
+# Answers
+
+---
+
+
+
+
+
+1.	local variables (variables that exist only in a method or other small section of code)
+
+2.	A statement is a command that performs an action, such as calculating a value and storing the result
+3.	Identifiers are the names that you use to identify the elements in your programs, such as namespaces, classes, methods, and variables.Helps add attributes to a program/container of classes
+4.	A variable is a storage location that holds a value. You can think of a variable as a box in the
+5.	think of a method as a named sequence of statements.Start visual studios
+6.	Yes PG 177
+7.	Variables holds a value, operators operate on values to create new values
+8.	Console.Writeline(“42” + “1”);
+9.	a method called Int32.Parse that you can use to convert a string value to an integer if you need to perform arithmetic computations on values held as strings.
+10.	Precedence is the order of operations, and associativity is the direction that executes equation from left to right
+11.	Cant use an unassigned variable
+12.	++something gets the value after the count takes place, while something++ is the value before the increment takes place.
+13.	A better replacement for the + operator
+14.	Lets the compiler figure out what type youre using
+
